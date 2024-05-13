@@ -9,7 +9,7 @@ const server = http.createServer(app);
 
 const io = new Server(server, {
   cors: {
-    origin: "https://chat-socket-henna.vercel.app/",
+    origin: "https://chat-socket-henna.vercel.app",
     methods: ["GET", "POST"],
   },
 });
