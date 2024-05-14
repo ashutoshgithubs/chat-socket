@@ -46,6 +46,9 @@ function App() {
       ) : (
         <Chat socket={socket} username={username} room={room} />
       )}
+      <div className="text-md font-serif ">
+        <p>Designed & Developed by Ashutosh Kumar</p>
+      </div>
     </div>
   );
 }
