@@ -5,7 +5,7 @@ This is a real-time chat application built using Socket.io for real-time communi
 
 ## A Glance of Chat-App 🤠
 
-*A warning when user clicks the join button without filling creadentials*![Screenshot (756)](https://github.com/ashutoshgithubs/chat-socket/assets/97340498/e3624f17-3de2-4702-ac12-eff1331d92ed)
+*A warning when user clicks the join button without filling credentials*![Screenshot (756)](https://github.com/ashutoshgithubs/chat-socket/assets/97340498/e3624f17-3de2-4702-ac12-eff1331d92ed)
 
 
 
