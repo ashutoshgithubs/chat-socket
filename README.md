@@ -3,6 +3,23 @@
 
 This is a real-time chat application built using Socket.io for real-time communication, Express for the server-side logic, Node.js for backend development, and React for the frontend user interface.
 
+## A Glance of Chat-App 🤠
+
+*A warning when user clicks the join button without filling creadentials*![Screenshot (756)](https://github.com/ashutoshgithubs/chat-socket/assets/97340498/e3624f17-3de2-4702-ac12-eff1331d92ed)
+
+
+
+![Screenshot (757)](https://github.com/ashutoshgithubs/chat-socket/assets/97340498/6c6b1a7e-8c1b-4bbc-a96e-ef000372652e)
+
+![Screenshot (758)](https://github.com/ashutoshgithubs/chat-socket/assets/97340498/a5a7ce92-2fd6-4375-8549-05abcee35fea)
+![Screenshot (759)](https://github.com/ashutoshgithubs/chat-socket/assets/97340498/ba9d6fcd-2249-4de9-8bec-e37664179a34)
+![Screenshot (760)](https://github.com/ashutoshgithubs/chat-socket/assets/97340498/083077cc-fcbe-4c6c-b1e0-022c43b0927a)
+![Screenshot (761)](https://github.com/ashutoshgithubs/chat-socket/assets/97340498/33087a24-01f7-4e0b-9778-679e4eb17456)
+
+
+
+
+
 ## Getting Started
 
 To start using this application, follow these steps:
