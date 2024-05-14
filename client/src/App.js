@@ -3,6 +3,8 @@ import { useState } from "react";
 import Chat from "./Chat";
 import {toast} from "react-hot-toast";
 
+// const socket = io.connect("http://localhost:3001");
+// After Hosting backend on render
 const socket = io.connect("https://chat-socket-63ub.onrender.com");
 
 function App() {
